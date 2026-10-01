@@ -1,7 +1,7 @@
 ﻿# Pool Table Management System 🎱
 
 <p align="center">
-  <img src="Images/pool-table.png" alt="Pool Table Management System" width="800">
+  <img src="Images/pool-table-1.png" alt="Pool Table Management System" width="800">
 </p>
 
 A simple Windows Forms application for managing pool tables, tracking playing time, and calculating total fees.
@@ -39,9 +39,7 @@ Each table status is represented by a different color for easy identification:
 
 ## Screenshots
 
-<p align="center">
-  <img src="Images/pool-table-1.png" alt="Pool Table Management System" width="800">
-</p>
+
 
 <p align="center">
   <img src="Images/pool-table-2.png" alt="Pool Table Management System" width="800">
